@@ -2,3 +2,4 @@
 - Profile UI
 - Feed Design
 - Interaction UI
+- Suggestion UI
