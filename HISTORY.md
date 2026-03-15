@@ -4,3 +4,4 @@
 - Interaction UI
 - Suggestion UI
 - Notify UI
+- Chat UI
