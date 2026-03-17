@@ -5,3 +5,4 @@
 - Suggestion UI
 - Notify UI
 - Chat UI
+- Dark Mode
