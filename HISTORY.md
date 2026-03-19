@@ -6,3 +6,4 @@
 - Notify UI
 - Chat UI
 - Dark Mode
+- SEO
